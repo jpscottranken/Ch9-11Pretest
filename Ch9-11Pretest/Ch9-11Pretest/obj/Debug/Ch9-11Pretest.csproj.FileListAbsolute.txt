@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\Ch9-11Pretest\Ch9-11Pretest\Ch9-11Pretest\bin\Debug\Ch9-11Pretest.exe.config
+C:\Users\jpscott\Desktop\Ch9-11Pretest\Ch9-11Pretest\Ch9-11Pretest\bin\Debug\Ch9-11Pretest.exe
+C:\Users\jpscott\Desktop\Ch9-11Pretest\Ch9-11Pretest\Ch9-11Pretest\bin\Debug\Ch9-11Pretest.pdb
+C:\Users\jpscott\Desktop\Ch9-11Pretest\Ch9-11Pretest\Ch9-11Pretest\obj\Debug\Ch9-11Pretest.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\Ch9-11Pretest\Ch9-11Pretest\Ch9-11Pretest\obj\Debug\Ch9_11Pretest.frmMain.resources
+C:\Users\jpscott\Desktop\Ch9-11Pretest\Ch9-11Pretest\Ch9-11Pretest\obj\Debug\Ch9_11Pretest.frmMatch.resources
+C:\Users\jpscott\Desktop\Ch9-11Pretest\Ch9-11Pretest\Ch9-11Pretest\obj\Debug\Ch9_11Pretest.Properties.Resources.resources
+C:\Users\jpscott\Desktop\Ch9-11Pretest\Ch9-11Pretest\Ch9-11Pretest\obj\Debug\Ch9-11Pretest.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\Ch9-11Pretest\Ch9-11Pretest\Ch9-11Pretest\obj\Debug\Ch9-11Pretest.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Ch9-11Pretest\Ch9-11Pretest\Ch9-11Pretest\obj\Debug\Ch9-11Pretest.exe
+C:\Users\jpscott\Desktop\Ch9-11Pretest\Ch9-11Pretest\Ch9-11Pretest\obj\Debug\Ch9-11Pretest.pdb

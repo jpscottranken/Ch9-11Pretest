@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jpscott\\Desktop\\Ch9-11Pretest\\Ch9-11Pretest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5ACB3-4C60-4F8D-88FB-9F5C6CB7EACE}|Ch9-11Pretest\\Ch9-11Pretest.csproj|c:\\users\\jpscott\\desktop\\ch9-11pretest\\ch9-11pretest\\ch9-11pretest\\frmmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5ACB3-4C60-4F8D-88FB-9F5C6CB7EACE}|Ch9-11Pretest\\Ch9-11Pretest.csproj|solutionrelative:ch9-11pretest\\frmmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5ACB3-4C60-4F8D-88FB-9F5C6CB7EACE}|Ch9-11Pretest\\Ch9-11Pretest.csproj|C:\\Users\\jpscott\\Desktop\\Ch9-11Pretest\\Ch9-11Pretest\\ch9-11pretest\\frmmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BC5ACB3-4C60-4F8D-88FB-9F5C6CB7EACE}|Ch9-11Pretest\\Ch9-11Pretest.csproj|solutionrelative:ch9-11pretest\\frmmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5ACB3-4C60-4F8D-88FB-9F5C6CB7EACE}|Ch9-11Pretest\\Ch9-11Pretest.csproj|c:\\users\\jpscott\\desktop\\ch9-11pretest\\ch9-11pretest\\ch9-11pretest\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5ACB3-4C60-4F8D-88FB-9F5C6CB7EACE}|Ch9-11Pretest\\Ch9-11Pretest.csproj|solutionrelative:ch9-11pretest\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5ACB3-4C60-4F8D-88FB-9F5C6CB7EACE}|Ch9-11Pretest\\Ch9-11Pretest.csproj|c:\\users\\jpscott\\desktop\\ch9-11pretest\\ch9-11pretest\\ch9-11pretest\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BC5ACB3-4C60-4F8D-88FB-9F5C6CB7EACE}|Ch9-11Pretest\\Ch9-11Pretest.csproj|solutionrelative:ch9-11pretest\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\Ch9-11Pretest\\Ch9-11Pretest\\Ch9-11Pretest\\frmMain.cs",
+              "RelativeDocumentMoniker": "Ch9-11Pretest\\frmMain.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\Ch9-11Pretest\\Ch9-11Pretest\\Ch9-11Pretest\\frmMain.cs",
+              "RelativeToolTip": "Ch9-11Pretest\\frmMain.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAFsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T14:51:46.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\Ch9-11Pretest\\Ch9-11Pretest\\Ch9-11Pretest\\frmMain.cs",
+              "RelativeDocumentMoniker": "Ch9-11Pretest\\frmMain.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\Ch9-11Pretest\\Ch9-11Pretest\\Ch9-11Pretest\\frmMain.cs [Design]",
+              "RelativeToolTip": "Ch9-11Pretest\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T14:51:42.561Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMatch.cs",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\Ch9-11Pretest\\Ch9-11Pretest\\Ch9-11Pretest\\frmMatch.cs",
+              "RelativeDocumentMoniker": "Ch9-11Pretest\\frmMatch.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\Ch9-11Pretest\\Ch9-11Pretest\\Ch9-11Pretest\\frmMatch.cs",
+              "RelativeToolTip": "Ch9-11Pretest\\frmMatch.cs",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAAAAoBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T14:15:15.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMatch.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jpscott\\Desktop\\Ch9-11Pretest\\Ch9-11Pretest\\Ch9-11Pretest\\frmMatch.cs",
+              "RelativeDocumentMoniker": "Ch9-11Pretest\\frmMatch.cs",
+              "ToolTip": "C:\\Users\\jpscott\\Desktop\\Ch9-11Pretest\\Ch9-11Pretest\\Ch9-11Pretest\\frmMatch.cs [Design]",
+              "RelativeToolTip": "Ch9-11Pretest\\frmMatch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:42:25.795Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
